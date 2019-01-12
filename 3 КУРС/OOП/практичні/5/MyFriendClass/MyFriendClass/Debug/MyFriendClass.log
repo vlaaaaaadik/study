@@ -1,0 +1,6 @@
+﻿  MyFriendClass.cpp
+d:\drive\3 курс\ooп\практичні\5\myfriendclass\myfriendclass\myfriendclass.cpp(52): warning C4091: 'static ': ignored on left of 'StatControl' when no variable is declared
+d:\drive\3 курс\ooп\практичні\5\myfriendclass\myfriendclass\myfriendclass.cpp(38): warning C4305: '=': truncation from 'double' to 'float'
+d:\drive\3 курс\ooп\практичні\5\myfriendclass\myfriendclass\myfriendclass.cpp(43): warning C4305: '+=': truncation from 'double' to 'float'
+d:\drive\3 курс\ooп\практичні\5\myfriendclass\myfriendclass\myfriendclass.cpp(44): warning C4305: '+=': truncation from 'double' to 'float'
+  MyFriendClass.vcxproj -> D:\drive\3 КУРС\OOП\практичні\5\MyFriendClass\Debug\MyFriendClass.exe

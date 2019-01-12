@@ -1,0 +1,4 @@
+﻿  Pointers1.cpp
+c:\users\vlaad\google диск\3 курс\ooп\практичні\4\pointers1\pointers1\pointers1.cpp(41): warning C4091: static : пропускается слева от "Controller", когда ни одна переменная не объявлена
+c:\users\vlaad\google диск\3 курс\ooп\практичні\4\pointers1\pointers1\pointers1.cpp(57): warning C4091: static : пропускается слева от "View", когда ни одна переменная не объявлена
+  Pointers1.vcxproj -> C:\Users\Vlaad\Google Диск\3 КУРС\OOП\практичні\4\Pointers1\Debug\Pointers1.exe

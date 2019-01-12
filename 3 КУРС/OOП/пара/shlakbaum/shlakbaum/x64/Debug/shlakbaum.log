@@ -1,0 +1,4 @@
+﻿  shlakbaum.cpp
+c:\users\vlaad\google диск\3 курс\ooп\пара\shlakbaum\shlakbaum\shlakbaum.cpp(50): warning C4091: static : пропускается слева от "Controller", когда ни одна переменная не объявлена
+c:\users\vlaad\google диск\3 курс\ooп\пара\shlakbaum\shlakbaum\shlakbaum.cpp(60): warning C4091: static : пропускается слева от "View", когда ни одна переменная не объявлена
+  shlakbaum.vcxproj -> C:\Users\Vlaad\Google Диск\3 КУРС\OOП\пара\shlakbaum\x64\Debug\shlakbaum.exe

@@ -1,0 +1,5 @@
+﻿  Shaurma.cpp
+c:\users\vlaad\google диск\3 курс\ooп\практичні\2\shaurma\shaurma\shaurma.cpp(51): warning C4091: static : пропускается слева от "Shaurma", когда ни одна переменная не объявлена
+c:\users\vlaad\google диск\3 курс\ooп\практичні\2\shaurma\shaurma\shaurma.cpp(63): warning C4091: static : пропускается слева от "Controller", когда ни одна переменная не объявлена
+c:\users\vlaad\google диск\3 курс\ooп\практичні\2\shaurma\shaurma\shaurma.cpp(80): warning C4091: static : пропускается слева от "View", когда ни одна переменная не объявлена
+  Shaurma.vcxproj -> C:\Users\Vlaad\Google Диск\3 КУРС\OOП\практичні\2\Shaurma\Debug\Shaurma.exe
