@@ -1,0 +1,4 @@
+﻿  inharitance.cpp
+d:\study\3 курс\ooп\пара\inharitance\inharitance\inharitance.cpp(35): warning C4101: 'b': unreferenced local variable
+d:\study\3 курс\ooп\пара\inharitance\inharitance\inharitance.cpp(34): warning C4101: 'i': unreferenced local variable
+  inharitance.vcxproj -> D:\study\3 КУРС\OOП\пара\inharitance\Debug\inharitance.exe

@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  inner.cpp
+inner.obj : error LNK2019: unresolved external symbol "public: __thiscall Ivan::Ivan(void)" (??0Ivan@@QAE@XZ) referenced in function _main
+D:\study\3 КУРС\OOП\пара\inner\Debug\inner.exe : fatal error LNK1120: 1 unresolved externals
