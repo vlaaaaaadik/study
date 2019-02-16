@@ -1,0 +1,47 @@
+p{
+	/*color:tomato;
+	text-align: justify;
+	font-style: italic;
+	font-family: Arial;
+	line-height: 30px;*/
+	font-family: Arial;
+	font-size: 16px;
+	font-style: italic;
+	font-weight: bold;
+	line-height: 30px;
+	text-indent: 30px;
+}
+h1{
+	color:lightseagreen;
+	text-align: center;
+	font-family: Veranda;
+	font-weight: bold;
+	font-size: 20px;
+}
+h2{
+	color:cornflowerblue;
+	width: 350px;
+	text-align: right;
+	font-style: italic;
+	font-family: "Times New Roman";
+}
+h3{
+	color:maroon;
+	font-family: sans-serif;
+}
+table{
+	width: 400px;
+	height: 200px;
+	vertical-align: top;
+}
+th{
+	text-align: left;
+}
+td{
+	text-align: center;
+	vertical-align: center;
+	font-weight: bold;
+}
+th,h1,h3{
+	font-weight: normal;
+}

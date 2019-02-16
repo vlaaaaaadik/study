@@ -1,0 +1,15 @@
+ul
+{
+	border:500;
+}
+li
+{
+	white-space: nowrap;
+	list-style-type: none;
+	height: 40px;
+	padding:20px;
+}
+a.hover
+{
+	background-color: black;
+}

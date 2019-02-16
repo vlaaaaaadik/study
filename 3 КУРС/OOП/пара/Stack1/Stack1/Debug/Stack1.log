@@ -1,3 +1,2 @@
-﻿  stdafx.cpp
-  Stack1.cpp
-  Stack1.vcxproj -> C:\Users\Vlaad\Google Диск\3 КУРС\OOП\пара\Stack1\Debug\Stack1.exe
+﻿  Stack1.cpp
+d:\study\3 курс\ooп\пара\stack1\stack1\stack1.cpp(50): error C2065: 'null': undeclared identifier
